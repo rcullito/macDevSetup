@@ -1,6 +1,7 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install git
 brew install node
+brew install sbt
 brew tap caskroom/cask
 brew cask install google-chrome
 brew cask install atom
