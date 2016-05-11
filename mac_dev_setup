@@ -2,6 +2,7 @@
 brew install git
 brew install node
 brew install sbt
+brew install typesafe-activator
 brew tap caskroom/cask
 brew cask install google-chrome
 brew cask install atom
